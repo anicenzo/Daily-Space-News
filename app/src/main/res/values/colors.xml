@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_grey">#FF121B2E</color>
+    <color name="neon_cyan">#FFE8A657</color>
+    <color name="obs_bg_base">#FF0B1220</color>
+    <color name="obs_bg_elevated">#FF121B2E</color>
+    <color name="obs_accent_amber">#FFE8A657</color>
+    <color name="obs_text_primary">#FFF2F4F8</color>
+    <color name="obs_text_secondary">#FF93A1BD</color>
+</resources>

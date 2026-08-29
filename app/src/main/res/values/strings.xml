@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daily Space News</string>
+    <string name="home_news">Home News</string>
+    <string name="launches">Launches</string>
+    <string name="hd_gallery">HD Gallery</string>
+    <string name="next_launch_widget_description">Shows the next upcoming rocket launch.</string>
+</resources>
